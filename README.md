@@ -1,4 +1,4 @@
-  <h1>Frontend</h1>
+  <h1>Frontend</h1><br/>
   
   <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -15,16 +15,7 @@
   <img align="left" alt="VScode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> 
   <br />
 
-  <h1>Database</h1>
-  
-  <img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
 
-  <br />
-
-  <h1>Backend</h1>
-  <h3>Null</h3>
-  <br />
   
   
   
